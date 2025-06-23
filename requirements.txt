@@ -1,0 +1,12 @@
+streamlit
+transformers
+torch
+accelerate
+chromadb
+langchain
+sentence-transformers
+whisper
+pypdf
+python-docx
+docx2txt
+python-dotenv
