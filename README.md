@@ -65,19 +65,23 @@ rag_voice_agent/
 
 📦 Setup Instructions
 
-1. Clone the repo  
+1. Clone the repo
+
   https://github.com/Meghna2710/RAG-Powered-Voice-and-Document-Agent.git
 
   cd rag-voice-agent
-3. Create and activate a virtual environment
+  
+2. Create and activate a virtual environment
 
   python3 -m venv venv
   
   source venv/bin/activate
-4. Install dependencies
+  
+3. Install dependencies
 
   pip install -r requirements.txt
-5. Run the app
+  
+4. Run the app
 
   streamlit run app.py
 
