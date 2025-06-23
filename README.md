@@ -1,10 +1,10 @@
-🎧 RAG-Powered Voice & Document Agent
+## 🎧 RAG-Powered Voice & Document Agent
 
 This project is an intelligent, AI-powered assistant that allows users to ask questions from uploaded documents (PDF, DOCX, TXT) or audio files (e.g., meetings, lectures). It uses Retrieval-Augmented Generation (RAG) to extract and generate accurate, context-based answers from content, making it ideal for summarizing recordings, reviewing lecture notes, or automating document comprehension.
 
 ---
 
- 🚀 Features
+ ## 🚀 Features
 
 - 📄 Upload and query documents (PDF, DOCX, TXT)
 - 🔊 Upload audio files — converts **speech to text** automatically using Whisper
@@ -16,7 +16,7 @@ This project is an intelligent, AI-powered assistant that allows users to ask qu
 
 ---
 
- 🧠 Tech Stack
+ ## 🧠 Tech Stack
 
 | Component        | Technology                         |
 |------------------|-------------------------------------|
@@ -31,7 +31,7 @@ This project is an intelligent, AI-powered assistant that allows users to ask qu
 
 ---
 
-📸 Demo
+## 📸 Demo
 
 <img width="1523" alt="image" src="https://github.com/user-attachments/assets/df4d0fd0-d53f-455f-a5e4-0b4a5cfc1ca3" />
 
@@ -40,7 +40,7 @@ This project is an intelligent, AI-powered assistant that allows users to ask qu
 
 ---
 
-📁 Folder Structure
+## 📁 Folder Structure
 
 rag_voice_agent/
 │
@@ -63,7 +63,7 @@ rag_voice_agent/
 
 ---
 
-📦 Setup Instructions
+## 📦 Setup Instructions
 
 1. Clone the repo
 
@@ -87,7 +87,7 @@ rag_voice_agent/
 
 ---
 
-📌 Use Cases
+## 📌 Use Cases
 Summarize long lecture or meeting audio
 
 Q&A on research papers or reports
